@@ -459,6 +459,7 @@ func resourceLibvirtDomain() *schema.Resource {
 					},
 				},
 			},
+			//Add more here
 		},
 	}
 }
